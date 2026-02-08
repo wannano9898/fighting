@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "西裝刺客",
+    "title": "上班族",
+    "description": "白天是西裝筆挺、溫文儒雅的都市白領，晚上則化身為冷酷無情的格鬥高手。多年的職場壓力讓他將所有情緒轉化為戰鬥技巧，每一拳都承載著加班的怨念。",
+    "fightingStyle": "商業談判拳",
+    "specialMove": "加班暴擊",
+    "background": "在無數次的會議和報告中磨練出的冷靜判斷力，讓他在戰鬥中總能找到對手的破綻。",
+    "image": "/images/office-worker.jpg",
+    "stats": {
+      "power": 85,
+      "speed": 75,
+      "defense": 70,
+      "technique": 90
+    }
+  },
+  {
+    "id": 2,
+    "name": "早餐女王",
+    "title": "早餐店老闆娘",
+    "description": "每天凌晨三點起床準備早餐，練就了驚人的臂力與速度。翻動鍋鏟的技巧在戰場上化為致命的連擊，煎蛋時的精準控制讓她的攻擊無比犀利。",
+    "fightingStyle": "廚具格鬥術",
+    "specialMove": "鐵鏟橫掃千軍",
+    "background": "三十年如一日的早餐店生涯，讓她擁有超越常人的耐力與反應速度。客人的催促聲讓她學會在高壓下保持冷靜。",
+    "image": "/images/breakfast-shop.jpg",
+    "stats": {
+      "power": 80,
+      "speed": 95,
+      "defense": 65,
+      "technique": 85
+    }
+  },
+  {
+    "id": 3,
+    "name": "千紙之刃",
+    "title": "摺紙少年",
+    "description": "從小沉迷於摺紙藝術的少年，將紙張的柔軟與堅韌融入戰鬥之中。每一個摺痕都是力量的軌跡，能夠將普通的紙張化為鋒利的武器。",
+    "fightingStyle": "紙遁忍術",
+    "specialMove": "千紙鶴亂舞",
+    "background": "在無數次摺紙過程中領悟了力量與技巧的平衡，能夠以最小的動作創造最大的效果。安靜的外表下隱藏著驚人的戰鬥天賦。",
+    "image": "/images/origami-boy.jpg",
+    "stats": {
+      "power": 70,
+      "speed": 88,
+      "defense": 75,
+      "technique": 95
+    }
+  },
+  {
+    "id": 4,
+    "name": "命運占卜師",
+    "title": "塔羅牌空姐",
+    "description": "在三萬英尺的高空服務乘客，私底下是塔羅牌占卜的高手。能夠預測對手的攻擊軌跡，戰鬥風格如同命運般難以捉摸，每一擊都像是命運的安排。",
+    "fightingStyle": "命運預知拳",
+    "specialMove": "愚者的反擊",
+    "background": "在無數次飛行中見證人生百態，從塔羅牌中領悟了戰鬥的真諦。優雅的舉止下蘊含著強大的力量。",
+    "image": "/images/flight-attendant.jpg",
+    "stats": {
+      "power": 75,
+      "speed": 82,
+      "defense": 80,
+      "technique": 92
+    }
+  },
+  {
+    "id": 5,
+    "name": "沉默圖書員",
+    "title": "圖書館管理員",
+    "description": "終日與書籍為伍的圖書館管理員，從武術古籍中自學成才。安靜的外表下隱藏著深厚的內功，能夠以靜制動，四兩撥千斤。",
+    "fightingStyle": "古籍武學",
+    "specialMove": "萬卷書山壓",
+    "background": "在圖書館的寧靜中修煉多年，將書中的武學理論融會貫通。每一個動作都經過深思熟慮，絕不浪費一絲力氣。",
+    "image": "/images/librarian.jpg",
+    "stats": {
+      "power": 78,
+      "speed": 68,
+      "defense": 88,
+      "technique": 98
+    }
+  },
+  {
+    "id": 6,
+    "name": "夜市霸主",
+    "title": "炸雞攤老闆",
+    "description": "經營夜市炸雞攤十餘年，在油鍋前練就了驚人的臂力與抗高溫能力。炸雞的節奏成為他的戰鬥韻律，火候的掌控轉化為攻擊的時機。",
+    "fightingStyle": "油炸猛擊",
+    "specialMove": "熱油爆裂拳",
+    "background": "夜市的喧鬧讓他習慣在混亂中保持專注，炸雞時的精準時間掌控讓他的攻擊節奏完美無缺。",
+    "image": "/images/fried-chicken.jpg",
+    "stats": {
+      "power": 92,
+      "speed": 72,
+      "defense": 85,
+      "technique": 78
+    }
+  }
+]
